@@ -1,0 +1,25 @@
+.bg6 {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 16px;
+}
+
+.p {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 20px;
+  margin: 0px;
+}
+
+.img3 {
+  height: 20px;
+  width: 20px;
+}
+
+.btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
